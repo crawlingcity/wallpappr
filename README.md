@@ -3,6 +3,7 @@
 ![icon](./build/icons/icon.ico)
 
 ---
+
 `WallpappR` is a desktop application made using `ElectronJS` and `VueJS` and the Reddit web API to fetch 
 wallpapers from the subreddit *r/wallpapers*, no Login required.
 
